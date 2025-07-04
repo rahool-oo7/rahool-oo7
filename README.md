@@ -14,7 +14,7 @@
 
 - 🎓 Recent BCA graduate from **Presidency University, Bangalore**
 - 📚 Currently learning **Python** and exploring **AI/ML**
-- 🤖 Built a simple **Voice Assistant – Jarvis**
+- 🤖 Built a simple **Voice Assistant – Nova**
 - 🌱 Documenting my python journey in [my-python-journey](https://github.com/rahool-oo7/my-python-journey)
 - 🎯 Goal: To become an AI/ML Developer
 
@@ -41,7 +41,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [Jarvis – Voice Assistant](https://github.com/rahool-oo7/my-python-journey/tree/main/mini-projects/jarvis) | Basic AI assistant using voice recognition |
+| [Nova – Voice Assistant](https://github.com/rahool-oo7/my-python-journey/tree/main/mini-projects/nova) | Basic AI assistant using voice recognition |
 | [My Python Journey](https://github.com/rahool-oo7/my-python-journey) | My coding notes, mini projects, and learning path |
 | Calculator CLI | Simple calculator built with Python |
 
