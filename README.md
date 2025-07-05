@@ -43,7 +43,7 @@
 |--------|-------------|
 | [Nova – Voice Assistant](https://github.com/rahool-oo7/my-python-journey/tree/main/mini-projects/nova) | Basic AI assistant using voice recognition |
 | [My Python Journey](https://github.com/rahool-oo7/my-python-journey) | My coding notes, mini projects, and learning path |
-| Calculator CLI | Simple calculator built with Python |
+| [Password Generator]((https://github.com/rahool-oo7/password-gen-gui)) | Generate strong passwords instantly with GUI |
 
 ---
 
