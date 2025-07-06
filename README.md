@@ -60,7 +60,11 @@
 
 - 📍 Bangalore, India
 - ✉️ Email: riteshwork.work@gmail.com
-- 💼 [LinkedIn]<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+- 💼 [LinkedIn]
+- <p>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  </p>
+- 
 
 ---
 
