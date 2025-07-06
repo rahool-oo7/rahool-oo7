@@ -60,7 +60,8 @@
 
 - 📍 Bangalore, India
 - ✉️ Email: riteshwork.work@gmail.com
-- 💼 [LinkedIn: Ritesh Kumar](https://in.linkedin.com/in/riteshkumar-ai)
+- 💼 LinkedIn: [Ritesh Kumar](https://in.linkedin.com/in/riteshkumar-ai)
+
 
 
 ---
