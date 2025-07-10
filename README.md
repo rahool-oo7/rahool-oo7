@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/rahool-oo7"><img src="https://img.shields.io/github/followers/rahool-oo7?label=Followers&style=social" /></a>
-  <a href="https://linkedin.com/in/riteshkumar-ai"><img src="https://img.shields.io/badge/LinkedIn-Ritesh%20Kumar-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/ritesh-ai"><img src="https://img.shields.io/badge/LinkedIn-Ritesh%20Kumar-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:riteshwork.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-riteshwork.work@gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -17,7 +17,7 @@
 
 - 🎓 BCA graduate from **Presidency University, Bangalore**
 - 🐍 Currently learning **Python for Data Science and AI**
-- 🤖 Built my first **AI Voice Assistant (Nova)**
+- 🤖 Built my first **AI Voice Assistant** [(Nova)] (https://github.com/rahool-oo7/nova-voice-assistant)
 - 🧠 Documenting everything in [My Python Journey](https://github.com/rahool-oo7/my-python-journey)
 - 🎯 **Goal**: Become a successful AI/ML Engineer and contribute to real-world problems
 
@@ -69,7 +69,7 @@
 
 - 🌍 **Location**: Bangalore, India
 - 📧 **Email**: riteshwork.work@gmail.com
-- 💼 **LinkedIn**: [riteshkumar-ai](https://linkedin.com/in/riteshkumar-ai)
+- 💼 **LinkedIn**: [ritesh-ai](https://linkedin.com/in/ritesh-ai)
 - 💻 **GitHub**: [rahool-oo7](https://github.com/rahool-oo7)
 
 ---
