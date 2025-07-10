@@ -17,7 +17,7 @@
 
 - 🎓 BCA graduate from **Presidency University, Bangalore**
 - 🐍 Currently learning **Python for Data Science and AI**
-- 🤖 Built my first **AI Voice Assistant** [(Nova)] (https://github.com/rahool-oo7/nova-voice-assistant)
+- 🤖 Built my first **AI Voice Assistant** [(Nova)](https://github.com/rahool-oo7/nova-voice-assistant)
 - 🧠 Documenting everything in [My Python Journey](https://github.com/rahool-oo7/my-python-journey)
 - 🎯 **Goal**: Become a successful AI/ML Engineer and contribute to real-world problems
 
