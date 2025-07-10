@@ -52,7 +52,7 @@
 |--------|-------------|
 | 🔊 [Nova – Voice Assistant](https://github.com/rahool-oo7/nova-voice-assistant) | Basic AI assistant using voice recognition and command execution |
 | 📘 [My Python Journey](https://github.com/rahool-oo7/my-python-journey) | Notes, projects, and daily progress in Python |
-| 🔐 [Password Generator (GUI)](https://github.com/rahool-oo7/password-gen-gui) | Python app to generate strong passwords with a user-friendly GUI |
+| 🔐 [Password Generator](https://github.com/rahool-oo7/password-gen-gui) | Python app to generate strong passwords with a user-friendly GUI |
 
 ---
 
