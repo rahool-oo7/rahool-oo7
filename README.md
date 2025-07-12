@@ -67,10 +67,10 @@
 
 ## 📫 Let's Connect
 
-- 🌍 **Location**: Bangalore, India
 - 📧 **Email**: riteshwork.work@gmail.com
 - 💼 **LinkedIn**: [ritesh-ai](https://linkedin.com/in/ritesh-ai)
 - 💻 **GitHub**: [rahool-oo7](https://github.com/rahool-oo7)
+- 🌍 **Location**: Bangalore, India
 
 ---
 
