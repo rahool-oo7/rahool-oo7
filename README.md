@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Git-Hub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahool-oo7&show_icons=true&theme=tokyonight" width="47%" />
