@@ -60,7 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahool-oo7&show_icons=true&theme=tokyonight" width="47%" />
-  [GitHub Streak}(https://github-readme-streak-stats.herokuapp.com/?user=rahool-oo7)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahool-oo7&theme=tokyonight" />
 </p>
 
 ---
