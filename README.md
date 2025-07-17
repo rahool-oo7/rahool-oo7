@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Ritesh Kumar</h1>
 
 <p align="center">
-  🧠 Data Enthusiast & Python Developer <br/>
+  🧠 Data Science Enthusiast & Python Developer <br/>
   🎓 BCA Graduate | 🔄 Building in Public | 🌱 Learning Mindset
 </p>
 
