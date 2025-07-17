@@ -26,6 +26,7 @@
 ## 📚 What I'm Currently Focusing On
 
 - ✅ Python for AI/ML & Data Science
+- ✅ Statistics for Data Understanding
 - ✅ Mini projects to strengthen concepts
 - ✅ ML fundamentals & real-world datasets
 - ✅ Using Git, GitHub, and Jupyter effectively
