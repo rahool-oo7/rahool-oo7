@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/ritesh-ai"><img src="https://img.shields.io/badge/LinkedIn-Ritesh%20Kumar-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:riteshwork.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-riteshwork.work@gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
-Hello
+
 ---
 
 ## 🚀 About Me
