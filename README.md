@@ -47,7 +47,7 @@
 
 ---
 
-## 🧩 Projects I Have Built
+## 🧩 Projects I Have Built So far
 
 | Project | Description |
 |--------|-------------|
