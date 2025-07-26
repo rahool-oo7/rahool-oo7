@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ritesh Kuar</h1>
+<h1 align="center">Hi there 👋, I'm Ritesh Kumar</h1>
 
 <p align="center">
   🧠 AI/ML Enthusiast & Python Developer <br/>
