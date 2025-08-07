@@ -1,4 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Ritesh Kumar</h1>s
+
 <p align="center"> 
   🧠 AI/ML Enthusiast & Python Developer <br/>
   🎓 BCA Graduate | 🔄 Building in Public | 🌱 Learning Mindset
