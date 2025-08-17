@@ -4,7 +4,7 @@
   🧠 AI/ML Enthusiast & Python Developer <br/>
   🎓 BCA Graduate | 🔄 Building in Public | 🌱 Learning Mindset 
 </p>
-
+ 
 <p align="center">
   <a href="https://github.com/rahool-oo7"><img src="https://img.shields.io/github/followers/rahool-oo7?label=Followers&style=social" /></a>
   <a href="https://linkedin.com/in/ritesh-ai"><img src="https://img.shields.io/badge/LinkedIn-Ritesh%20Kumar-blue?style=flat&logo=linkedin" /></a>
