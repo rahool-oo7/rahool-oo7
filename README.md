@@ -2,7 +2,7 @@
 
 <p align="center"> 
   🧠 AI/ML Enthusiast & Python Developer <br/>  
-  🎓 BCA Graduate | 🔄 Building in Public | 🌱 Learning Mindset  
+  🎓 BCA Graduate | 🔄 Building in Public | 🌱 Learning Mindset   
 </p>   
  
 <p align="center">
